@@ -1,5 +1,5 @@
 # To-do-list
-A nice todo list web app
+A to-do list web app
 - Developed a responsive to-do list web app to manage tasks
 - Implemented functions such as creating/ deleting/ checking off/ hiding tasks in HTML, CSS and JavaScript with jQuery
 
